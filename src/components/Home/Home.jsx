@@ -40,7 +40,7 @@ const Home = () => {
             <Text children="Find Valuable Content with Good Explaination With Normal Price" />
             <Link to="/courses">
               <Button size={'lg'} colorScheme="facebook">
-                Enrol Now
+                Register Now
               </Button>
             </Link>
           </VStack>
